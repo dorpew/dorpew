@@ -1,25 +1,20 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:434343,100:000000&height=300&section=header&text=&fontSize=0)
+<img src="https://i.imgur.com/YOUR_IMAGE.png" alt="Banner" width="100%"/>
+
+"Always bet on white, after all you've already won!"
 
 <br>
 <br>
-<br>
 
-## ━━━━━━━━━━━━━━━━━━━━
+![](https://img.shields.io/badge/⭐_Total_Stars_Earned-123-blue?style=flat-square)
+![](https://img.shields.io/badge/🕒_Total_Commits_(last_year)-271-blue?style=flat-square)
+![](https://img.shields.io/badge/🔀_Total_PRs-51-blue?style=flat-square)
+![](https://img.shields.io/badge/❗_Total_Issues-83-blue?style=flat-square)
+![](https://img.shields.io/badge/📦_Contributed_to_(last_year)-4-blue?style=flat-square)
 
 <br>
 
 ### [dorpew.is-a.dev](https://dorpew.is-a.dev)
-
-<br>
-
-## ━━━━━━━━━━━━━━━━━━━━
-
-<br>
-<br>
-<br>
-
-![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:434343&height=150&section=footer)
 
 </div>
