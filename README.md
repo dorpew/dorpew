@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=i'am+dorpew;a+valsa+suicida)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dorpew&show_icons=true&count_private=true&hide_border=true&title_color=808080&icon_color=808080&text_color=c9d1d9&bg_color=0d1117" alt="Filipe github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dorpew&show_icons=true&count_private=true&hide_border=true&title_color=808080&icon_color=808080&text_color=c9d1d9&bg_color=0d1117" alt="Dorpew" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorpew&layout=compact&hide_border=true&title_color=808080&text_color=808080&bg_color=0d1117" />
 </div>
 
