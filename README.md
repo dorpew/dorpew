@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3>Technologies & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,python,vuejs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,python,djs&theme=light" />
 </div>
 
 
